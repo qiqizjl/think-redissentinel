@@ -1,0 +1,19 @@
+{
+    "name": "naixiaoxin/think-redissentinel",
+    "description": "redis sentinel driver for thinkphp5",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "naixiaoxin",
+            "email": "nxx@yytest.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "think\\sentinel\\": "src"
+        },
+        "files": [
+        ]
+    }
+}
