@@ -3,7 +3,7 @@ ThinkPHP 5.0 Redis Sentinel驱动
 
 首先安装官方的php-redis扩展：
 
-http://pecl.php.net/package/mongodb
+http://pecl.php.net/package/redis
 
 然后，配置应用的数据库配置文件`config.php`的`cache['type']`参数为：
 
