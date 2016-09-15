@@ -12,7 +12,7 @@ http://pecl.php.net/package/redis
 ~~~
 
 并增加一下参数
-cache['server'](是个数组,host是地址,port是端口号):
+cache['server']:(是个数组,host是地址,port是端口号):
 ~~~
 'servers'=>[
     0=>[
